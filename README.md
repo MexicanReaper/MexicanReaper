@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MexicanReaper
-- 👀 I’m interested in pumpum 
-- 🌱 I’m currently learning shrex
-- 💞️ I’m looking to collaborate on teamtaging
-- 📫 How to reach me shrex
+- 👀 I’m interested in learning how to code  
+- 🌱 I’m currently learning java, python and c++
+- 💞️ I’m looking to collaborat
+- 📫 How to reach me
 
 <!---
 MexicanReaper/MexicanReaper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
